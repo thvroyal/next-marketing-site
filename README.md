@@ -1,5 +1,4 @@
 # Starter template for marketing website with full SEO support
-----
 
 ## Tech Stacks
 - NextJS - The React framework with hybrid static & server rendering, and App Router
