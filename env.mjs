@@ -5,7 +5,7 @@ export const env = createEnv({
   server: {
   },
   client: {
-    NEXT_PUBLIC_GA_ID: z.string(),
+    NEXT_PUBLIC_GA_ID: z.string().optional(),
   },
   // For Next.js >= 13.4.4, you only need to destructure client variables:
   experimental__runtimeEnv: {
