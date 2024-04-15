@@ -7,3 +7,5 @@
 - Add `cookie-policy`, `privacy`, `terms` pages
 
 ### Add dynamic sitemap
+
+### Config to use shadcn/ui

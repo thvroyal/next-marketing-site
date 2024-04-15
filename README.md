@@ -14,6 +14,7 @@
 - [x] Dynamic generate sitemaps and robot files
 - [ ] Support multiple languages
 - [ ] Add common pages
+- [ ] Generate og images
 
 ## Start Locally
 
